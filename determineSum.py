@@ -4,7 +4,7 @@ def determineMultiples():
     for a in range(1000):
         if a % 3 == 0 or a % 5 == 0:
             sum1+=a
-    
+            
     print(sum1)
 
 def main():
